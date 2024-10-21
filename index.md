@@ -15,7 +15,26 @@ Tipuri de linkuri in Maekdown
 
 #### Linkuri clasice 
 
-[textul linkului]
+**Variante:**
+
+[textul linkului](https://google.com/)
+[textul linkului](https://google.com/ "Accesare site google")
+
+#### Linkuri referentiate 
+
+Iata un [link][link1] catre site-ul Google.
+
+[link1]: https://google.com/
+
+Varianta prescurtata a linkurilor preferentiale:
+
+Iata un link [important] catre site-ul Google.
+
+[important]: https://google.com/
+
+#### LInkuri catre imagini
+
+![text descriptiv imagine]
 
 
 
