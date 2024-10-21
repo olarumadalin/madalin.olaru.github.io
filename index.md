@@ -11,7 +11,9 @@ De asemenea, prin aceste link-uri se pot accesa si sectiuni din pagina curenta s
 ### Sinteza unui link Markdown
 
 Tipuri de linkuri in Maekdown
+
 1.Linkuri clasice (normale)
+
 2.Linkuri preferentiale 
 
 #### Linkuri clasice 
