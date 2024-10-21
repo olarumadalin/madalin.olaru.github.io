@@ -13,7 +13,7 @@ Tipuri de linkuri in Maekdown
 1.Linkuri clasice (normale)
 2.Linkuri preferentiale 
 
-### Linkuri clasice 
+#### Linkuri clasice 
 
 [textul linkului]
 
