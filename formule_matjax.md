@@ -71,5 +71,15 @@ $$ a = b \div c $$
 
 $$ \sum_{i=0}^n i^2 = \frac{(a+b) \times (b+c)}{6} $$
 
+# Integrale 
+
+**Exemple:**
+
+$$ \int_0^1 x^4 dx $$
+
+$$ \iint dubla
+
+$$ \iiint tripla
+
 
 
