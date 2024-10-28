@@ -65,5 +65,11 @@ $$ a = c + 10 \cdot x $$
 
 $$ a = b \div c $$
 
+# Suma de la i=0 la n
+
+**Exemple:**
+
+$$ \sum_{i=0}^n i^2 = \frac{(a+b) \times (b+c)}{6} $$
+
 
 
