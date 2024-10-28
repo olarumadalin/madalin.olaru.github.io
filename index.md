@@ -1,4 +1,4 @@
-[Formule cu matjax](madjax.md)
+[Formule cu matjax](formule_madjax.md)
 
 # Implementarea relatiilor in Markdown
 
