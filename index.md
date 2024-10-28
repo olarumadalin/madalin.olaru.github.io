@@ -1,6 +1,6 @@
 # Implementarea relatiilor in Markdown
 
-## Implementarea relatiilor/legaturilor vatre alte fisiere
+## Implementarea relatiilor/legaturilor catre alte fisiere
 
 Fisierele accesate prin link-uri pot fi
 1. Gazduite pe alte servere (de ex.: accesarea unui alt site)
