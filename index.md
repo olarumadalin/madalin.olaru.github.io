@@ -1,3 +1,5 @@
+[Formule cu matjax](madjax.md)
+
 # Implementarea relatiilor in Markdown
 
 ## Implementarea relatiilor/legaturilor catre alte fisiere
