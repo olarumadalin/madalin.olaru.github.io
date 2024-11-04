@@ -1,4 +1,4 @@
-[Formule cu matjax](formule_mathjax.md)
+[Formule cu mathjax](formule_mathjax.md)
 
 [Formule calcul matriceal](mathjax2.md)
 
