@@ -1,5 +1,7 @@
 [Formule cu matjax](formule_matjax.md)
 
+[Formule calcul matriceal](mathjax2.md)
+
 # Implementarea relatiilor in Markdown
 
 ## Implementarea relatiilor/legaturilor catre alte fisiere
